@@ -5,7 +5,7 @@ export const SecRight = () => {
     return (
         <div className='secRight'>
             <div>
-                <h1>JONATHAN <br />SIMKHAI</h1>
+                <h1>JONATHAN SIMKHAI</h1>
                 <p>Lurex Linen Viscose Jacket in Conchiglia</p>
                 <p><b>$225</b></p>
             </div>
